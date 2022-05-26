@@ -1,0 +1,21 @@
+ft_format	ft_format.c	/^const char	*ft_format(const char *format, va_list /
+ft_intlen_base10	ft_base10.c	/^int	ft_intlen_base10(long long nb)$/
+ft_intlen_base16	ft_base16.c	/^int	ft_intlen_base16(unsigned long long nb)$/
+ft_printf	ft_printf.c	/^int	ft_printf(const char *format, ...)$/
+ft_printhexa	ft_printhexa.c	/^void	ft_printhexa(unsigned long int d, char *hexa)/
+ft_putchar	ft_put_elem.c	/^void	ft_putchar(char c)$/
+ft_putnbr	ft_put_elem.c	/^void	ft_putnbr(int nb)$/
+ft_putnbr_u	ft_put_elem.c	/^void	ft_putnbr_u(unsigned int n)$/
+ft_putstr	ft_put_elem.c	/^void	ft_putstr(char *s)$/
+ft_read	ft_read.c	/^const char	*ft_read(t_list *list, const char *form/
+ft_search_100	ft_search2.c	/^const char	*ft_search_100(const char *format, t_li/
+ft_search_c	ft_search.c	/^const char	*ft_search_c(va_list arg, const char *f/
+ft_search_d	ft_search.c	/^const char	*ft_search_d(va_list arg, const char *f/
+ft_search_i	ft_search2.c	/^const char	*ft_search_i(va_list arg, const char *f/
+ft_search_p	ft_search2.c	/^const char	*ft_search_p(va_list arg, const char *f/
+ft_search_s	ft_search.c	/^const char	*ft_search_s(va_list arg, const char *f/
+ft_search_tx	ft_search.c	/^const char	*ft_search_tx(va_list arg, const char */
+ft_search_u	ft_search2.c	/^const char	*ft_search_u(va_list arg, const char *f/
+ft_search_x	ft_search.c	/^const char	*ft_search_x(va_list arg, const char *f/
+ft_strchr	ft_str_elem.c	/^char	*ft_strchr(const char *c)$/
+ft_strlen	ft_str_elem.c	/^int	ft_strlen(const char *c)$/
